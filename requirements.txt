@@ -1,0 +1,6 @@
+pytest
+ruff
+pandas
+openpyxl
+python-docx
+python-pptx

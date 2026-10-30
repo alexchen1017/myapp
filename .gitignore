@@ -1,0 +1,9 @@
+tasks/
+output/
+logs/
+plans/
+.cb/
+.worktrees/
+.claude/worktrees/
+.Rhistory
+__pycache__/
